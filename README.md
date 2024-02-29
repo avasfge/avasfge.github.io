@@ -1,1 +1,6 @@
-<h1>Work site OverTeam<p style="color:red;">SCAM</p></h1>
+<style>
+  p{
+    color:red;
+  }
+</style>
+<h1>Work site OverTeam<p">SCAM</p></h1>
